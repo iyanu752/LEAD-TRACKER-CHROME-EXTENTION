@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 10px
+}
+
+
+input {
+ padding: 5px;
+ max-width: 30%;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+
+
+.saveTab-btn{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.delete-btn{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
