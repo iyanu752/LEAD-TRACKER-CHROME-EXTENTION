@@ -9,8 +9,6 @@ body {
     margin: 10px;
     background-image: linear-gradient(to right, #8005e8 , #8224e3);
 }
-
-
 input {
  padding: 7px;
  width: 25%;
@@ -19,8 +17,6 @@ input {
 .buttons {
  padding-top: 10px;
 }
-
-
 .savebtn {
     padding: 5px;
     font-family: 'Poppins', sans-serif;
@@ -30,14 +26,12 @@ input {
     background-color: #ddd8dc;
     color: #8005e8;
 }
-
 .savebtn:hover {
     font-weight: 700;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: #dfb2f4;
     color: #ffffff;
 }
-
 .savetab {
     padding: 5px;
     font-family: 'poppins', sans-serif;
@@ -50,11 +44,10 @@ input {
 
 .savetab:hover {
     font-weight: 700;
-    box-shadow: rgba(0, 0, 0, 0.35);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: #dfb2f4;
     color: #ffffff;
 }
-
 .deletebtn {
     padding: 5px;
     font-family: 'poppins', sans-serif;
@@ -64,14 +57,12 @@ input {
     background-color: #ddd8dc;
     color: #8005e8
 }
-
 .deletebtn:hover {
     font-weight: 700;
-    box-shadow: rgba(0, 0, 0, 0.35);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: #dfb2f4;
     color: #ffffff;
 }
-
 a {
     color: #ddd8dc;
     font-family: 'poppins', sans-serif;
