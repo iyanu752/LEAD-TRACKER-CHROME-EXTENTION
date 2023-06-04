@@ -1,29 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
 *{
     box-sizing: border-box;
 }
 
 
 body {
-    margin: 10px
+    margin: 10px;
+    background-image: linear-gradient(to right, #8005e8 , #8224e3);
 }
 
 
 input {
- padding: 5px;
- max-width: 30%;
+ padding: 7px;
+ width: 25%;
 }
 
 .buttons {
-    margin-top: 10px;
+ padding-top: 10px;
 }
 
 
-
-.saveTab-btn{
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+.savebtn {
+    padding: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #ddd8dc;
+    color: #8005e8;
 }
 
-.delete-btn{
+.savebtn:hover {
+    font-weight: 700;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #dfb2f4;
+    color: #ffffff;
+}
+
+.savetab {
+    padding: 5px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #ddd8dc;
+    color: #8005e8
+}
+
+.savetab:hover {
+    font-weight: 700;
+    box-shadow: rgba(0, 0, 0, 0.35);
+    background-color: #dfb2f4;
+    color: #ffffff;
+}
+
+.deletebtn {
+    padding: 5px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #ddd8dc;
+    color: #8005e8
+}
+
+.deletebtn:hover {
+    font-weight: 700;
+    box-shadow: rgba(0, 0, 0, 0.35);
+    background-color: #dfb2f4;
+    color: #ffffff;
+}
+
+a {
+    color: #ddd8dc;
+    font-family: 'poppins', sans-serif;
+    font-weight: 700;
 }
 
