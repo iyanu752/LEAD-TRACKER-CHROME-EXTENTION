@@ -11,14 +11,16 @@ body {
 }
 input {
  padding: 7px;
- width: 25%;
+ min-width: 40%;
 }
 
 .buttons {
  padding-top: 10px;
+ display: flex;
+ flex-direction: row;
 }
 .savebtn {
-    padding: 5px;
+
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     border-radius: 5px;
@@ -33,7 +35,7 @@ input {
     color: #ffffff;
 }
 .savetab {
-    padding: 5px;
+    margin-left: 1%;
     font-family: 'poppins', sans-serif;
     font-weight: 400;
     border-radius: 5px;
@@ -49,6 +51,7 @@ input {
     color: #ffffff;
 }
 .deletebtn {
+    margin-left: 1%;
     padding: 5px;
     font-family: 'poppins', sans-serif;
     font-weight: 400;
