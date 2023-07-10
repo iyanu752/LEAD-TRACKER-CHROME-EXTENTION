@@ -27,7 +27,7 @@
 
   - STEP 2
   - Turn on developer mode
-  - 
+   
 ![STEP 2](https://github.com/iyanu752/LEAD-TRACKER-CHROME-EXTENTION/assets/127423641/b14c61bf-9a7e-49af-8c4e-337fcc552baa)
 
 
@@ -46,6 +46,6 @@
 
 ![STEP 5](https://github.com/iyanu752/LEAD-TRACKER-CHROME-EXTENTION/assets/127423641/b5a775f8-cac3-43ff-b4be-697f79a66267)
 
- -  
+   
 
 
